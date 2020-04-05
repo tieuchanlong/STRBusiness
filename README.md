@@ -5,4 +5,19 @@ This project is an extensive version of the itch.io Weekly Game Jam 139 entry. T
 
 ![](WeeklyGameJam139/Assets/TitleBackground.png)
 
+## Features
+* Design Loosely-coupled classes with Zenject Depencies Injection 
+* Construct Modular Design with Scriptable Object for Game Settings and In-game Items
+* Serialize and Save high score with JSonUtility and Serialization
+
+## Major Components
+* Zenject
+* Panda Behaviour Tree
+* Unity
+
+## Project Information
+* Source: https://github.com/tieuchanlong/STRBusiness/tree/master/WeeklyGameJam139
+* Online access: https://tieuchanlong.itch.io/str-business
+* Itch.io submission: https://itch.io/jam/weekly-game-jam-139/rate/586156
+
 

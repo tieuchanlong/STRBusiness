@@ -10,10 +10,16 @@ This project is an extensive version of the itch.io Weekly Game Jam 139 entry. T
 * Construct Modular Design with Scriptable Object for Game Settings and In-game Items
 * Serialize and Save high score with JSonUtility and Serialization
 
+## Challenges
+The biggest challenge I came across was the ideation for the level design within a limited time span of 2 days for the Game Jam. Fortunately, it's easy for me to come up with the gameplay idea and the level would the basic style similar to Crossy Road Game.
+
 ## Major Components
 * Zenject
 * Panda Behaviour Tree
 * Unity
+
+## Innovation
+There is plan to add a simple card game with some NPC so players can have more way to get money in game.
 
 ## Project Information
 * Source: https://github.com/tieuchanlong/STRBusiness/tree/master/WeeklyGameJam139
